@@ -1,0 +1,17 @@
+{
+    "name": "amorelie/language-fr_be",
+    "version": "0.0.1",
+    "type": "magento2-language",
+    "description": "fr_BE language package.",
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

@@ -1,1 +1,1 @@
-# language-fr_be
+Language package for fr_BE based on fr_FR translations provided at [Crowdin Magento 2 Project](https://crowdin.com/project/magento-2).
